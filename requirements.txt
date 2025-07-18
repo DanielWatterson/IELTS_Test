@@ -1,0 +1,8 @@
+language_tool_python==2.5.0
+SpeechRecognition==3.8.1
+PyAudio==0.2.14
+nltk==3.7
+fpdf2==2.8.2
+
+
+# Follow the instructions as these are a requirement in-order for the application to be of use
